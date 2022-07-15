@@ -44,8 +44,8 @@ int main()
              << " - " << pi << endl
              << endl;
  
-        // Pausing estimation for first 10 values (Optional)
-        if (i < 20)
+        // Pausing estimation for first 5 values (Optional)
+        if (i < 5)
             getchar();
     }
 
